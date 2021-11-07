@@ -14,14 +14,12 @@
 [LinkedIn](https://www.linkedin.com/in/hildebrando-lima-664bb1130)
 
 <b>Tecnologias</b><br />
-
-<b>Front-End</b>
 <hr />
 
 
-<b>Banck-End</b>
-<hr />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HildebrandoLima)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HildebrandoLima&show_icons=true&theme=radical)
+
+
 
   
   
