@@ -32,6 +32,7 @@
 
 <b>Linguagens:</b>
 <hr />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HildebrandoLima&layout=compact)](https://github.com/HildebrandoLima/github-readme-stats)
 
 <b></b>
