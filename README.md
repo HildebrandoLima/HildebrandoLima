@@ -32,7 +32,7 @@
 
 <br />
 
-<b>Framework:</b>
+<b>Framework Front-End:</b>
 <li>Bootstrap</li>
 
 <br />
@@ -47,14 +47,17 @@
 
 <b>Ferramentas:</b>
 <li>VSCode</li>
+<li>WampServer</li>
+<li>Xampp</li>
 
 <hr />
+
 <b>Top Linguagens:</b>
-<hr />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HildebrandoLima&layout=compact)](https://github.com/HildebrandoLima/github-readme-stats)
 
-<b>Estatísticas</b>
 <hr />
+
+<b>Estatísticas</b>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HildebrandoLima&show_icons=true&theme=radical)
