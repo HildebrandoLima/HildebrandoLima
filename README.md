@@ -10,28 +10,45 @@
 </details>
 
 <b>Contato:</b>
-<hr />
 
 [LinkedIn](https://www.linkedin.com/in/hildebrando-lima-664bb1130)
+
+<hr />
 
 <b>Tecnologias:</b>
 
 <b>Front-End:</b>
-<hr />
-<li>aa</li>
-<li>aa</li>
-<li>aa</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+<li>ReactJS</li>
+
+<br />
 
 <b>Back-End:</b>
-<hr />
 
+<li>PHP</li>
+<li>NodeJS</li>
 
-<b>Banco d eDados:</b>
-<hr />
+<br />
+
+<b>Framework:</b>
+<li>Bootstrap</li>
+
+<br />
+
+<b>Banco de Dados:</b>
+
+<li>MySQL</li>
+<li>SQLServer</li>
+<li>MongoDB</li>
+
+<br />
 
 <b>Ferramentas:</b>
-<hr />
+<li>VSCode</li>
 
+<hr />
 <b>Top Linguagens:</b>
 <hr />
 
