@@ -9,7 +9,9 @@ Ao longo da minha carreira, explorei diversas facetas do desenvolvimento, atuand
 Principais Competências:
 
 Desenvolvimento: 
-<span style="background-color: blue; color: white;">[PHP]</span>
+
+<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
+
 
 
 HTML . CSS . Bootstrap . JavaScript . React . Vue . Node . Express . PHP . Laravel . C++;
