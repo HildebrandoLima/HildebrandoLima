@@ -8,13 +8,7 @@ Ao longo da minha carreira, explorei diversas facetas do desenvolvimento, atuand
 
 Principais Competências:
 
-Desenvolvimento: 
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.devmedia.com.br%2Fhtml-icons-utilizando-icones-em-paginas-html%2F43517&psig=AOvVaw27xBWNTQ__6H3LJH7I8mtF&ust=1713732073928000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiozdDT0YUDFQAAAAAdAAAAABAH"/>
-
-
-
-HTML . CSS . Bootstrap . JavaScript . React . Vue . Node . Express . PHP . Laravel . C++;
+Desenvolvimento: HTML . CSS . Bootstrap . JavaScript . React . Vue . Node . Express . PHP . Laravel . C++;
 Bancos de Dados: MySQL . PostgreSQL . Oracle . SQLServer;
 Ferramentas e Práticas: Docker . Scrum . Kanban . Git . GitHub . GitLab . Selenium IDE . TDD (PHP/Laravel).
 
