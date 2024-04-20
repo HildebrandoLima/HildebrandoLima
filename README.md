@@ -10,7 +10,7 @@ Principais Competências:
 
 Desenvolvimento: 
 
-<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
+<img src="[https://img.shields.io](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.devmedia.com.br%2Fhtml-icons-utilizando-icones-em-paginas-html%2F43517&psig=AOvVaw27xBWNTQ__6H3LJH7I8mtF&ust=1713732073928000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiozdDT0YUDFQAAAAAdAAAAABAH)/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 
 
