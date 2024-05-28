@@ -21,6 +21,8 @@ Convido você a explorar meu portfólio e repositório no GitHub para conhecer a
 - [ms-delivey, API de e-commerce]([https://github.com/projeto/open-source](https://github.com/HildebrandoLima/ms-delivey)).
 - [ecommerce front-end Vue.js](https://github.com/HildebrandoLima/ecommerce).
 
+## Estatísticas do GitHub
+
 ### Top Linguagens:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HildebrandoLima&layout=compact)](https://github.com/HildebrandoLima/github-readme-stats)
@@ -29,8 +31,9 @@ Convido você a explorar meu portfólio e repositório no GitHub para conhecer a
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HildebrandoLima&show_icons=true&theme=radical)
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+<hr />
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HildebrandoLima&show_icons=true&theme=dark)
 
 ## Contato
 - Email: hildebrandolima16@gmail.com
