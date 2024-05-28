@@ -18,7 +18,7 @@ Convido você a explorar meu portfólio e repositório no GitHub para conhecer a
 ### [Acesse meu Portfólio](https://hildebrandolima.github.io/)
 
 ## Projetos Destacados:
-- [ms-delivey, API de e-commerce]([https://github.com/projeto/open-source](https://github.com/HildebrandoLima/ms-delivey)).
+- [ms-delivey, API de e-commerce]([https://github.com/projeto/open-source](https://github.com/HildebrandoLima/ms-delivey).
 - [ecommerce front-end Vue.js](https://github.com/HildebrandoLima/ecommerce).
 
 ## Estatísticas do GitHub
