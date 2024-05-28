@@ -37,6 +37,6 @@ Convido você a explorar meu portfólio e repositório no GitHub para conhecer a
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HildebrandoLima&show_icons=true&theme=dark)
 
 ## Contato
-- Email: hildebrandolima16@gmail.com
+- [Email](hildebrandolima16@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/hildebrando-lima-664bb1130/)
 - [GitHub](https://github.com/HildebrandoLima/HildebrandoLima)
