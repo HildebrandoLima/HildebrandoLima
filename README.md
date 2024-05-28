@@ -37,6 +37,6 @@ Convido você a explorar meu portfólio e repositório no GitHub para conhecer a
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HildebrandoLima&show_icons=true&theme=dark)
 
 ## Contato
-Email: hildebrandolima16@gmail.com
-[![LinkedIn](https://i.pinimg.com/564x/c8/f4/25/c8f425a8ecd3d70575235846c0f7986b.jpg =30x30)](https://www.linkedin.com/in/hildebrando-lima-664bb1130/)
-[![GitHub](https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png =30x30)](https://github.com/HildebrandoLima/HildebrandoLima)
+- Email: hildebrandolima16@gmail.com
+- [![LinkedIn](https://i.pinimg.com/564x/c8/f4/25/c8f425a8ecd3d70575235846c0f7986b.jpg)](https://www.linkedin.com/in/hildebrando-lima-664bb1130/)
+- <img src="[icons/github-icon.png](https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png)" alt="GitHub" width="30" height="30">[![GitHub](https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png)](https://github.com/HildebrandoLima/HildebrandoLima)
