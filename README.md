@@ -37,5 +37,5 @@ Convido você a explorar meu portfólio e repositório no GitHub para conhecer a
 
 ## Contato
 - Email: hildebrandolima16@gmail.com
-- LinkedIn: [<i class="fab fa-linkedin"></i> Hildebrando Lima](https://www.linkedin.com/in/hildebrando-lima-664bb1130/)
-- GitHub: [<i class="fab fa-github"></i> HildebrandoLima](https://github.com/HildebrandoLima)
+- [![LinkedIn](icons/linkedin-icon.png)](https://www.linkedin.com/in/hildebrando-lima-664bb1130/)
+- [![GitHub](icons/github-icon.png)](https://github.com/HildebrandoLima)
