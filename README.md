@@ -20,6 +20,7 @@ Convido você a explorar meu portfólio e repositório no GitHub para conhecer a
 ## Projetos Destacados:
 - [ms-delivey, API de e-commerce](https://github.com/HildebrandoLima/ms-delivey).
 - [ecommerce front-end Vue.js](https://github.com/HildebrandoLima/ecommerce).
+- [Ver postagem do linkedin](https://encurtador.com.br/HTnd8)
 
 ## Estatísticas do GitHub
 
@@ -37,5 +38,5 @@ Convido você a explorar meu portfólio e repositório no GitHub para conhecer a
 
 ## Contato
 - Email: hildebrandolima16@gmail.com
-- [![LinkedIn]([icons/linkedin-icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sincovaga.com.br%2Flinkedin-icon-png-images-free-photos-png-stickers-wallpapers-ss-22609073&psig=AOvVaw1BIhQEFk-r1BzSqrF8vsA_&ust=1716984290190000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjD-I-nsIYDFQAAAAAdAAAAABAE))](https://www.linkedin.com/in/hildebrando-lima-664bb1130/)
-- [![GitHub]([icons/github-icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dgithub%2BLogo&psig=AOvVaw37sIb0dntbUcrq0g9u--1S&ust=1716984295093000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjYz4mnsIYDFQAAAAAdAAAAABAJ))](https://github.com/HildebrandoLima)
+- [![LinkedIn]([icons/linkedin-icon.png](https://i.pinimg.com/564x/c8/f4/25/c8f425a8ecd3d70575235846c0f7986b.jpg)
+- [![GitHub]([icons/github-icon.png](https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png)
