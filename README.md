@@ -38,5 +38,5 @@ Convido você a explorar meu portfólio e repositório no GitHub para conhecer a
 
 ## Contato
 - Email: hildebrandolima16@gmail.com
-- [![LinkedIn]([icons/linkedin-icon.png](https://i.pinimg.com/564x/c8/f4/25/c8f425a8ecd3d70575235846c0f7986b.jpg)
-- [![GitHub]([icons/github-icon.png](https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png)
+- [![LinkedIn](https://i.pinimg.com/564x/c8/f4/25/c8f425a8ecd3d70575235846c0f7986b.jpg)](https://www.linkedin.com/in/hildebrando-lima-664bb1130/)
+- [![GitHub](https://e7.pngegg.com/pngimages/93/461/png-clipart-github-computer-icons-logo-readme-github-logo-monochrome.png)](https://github.com/HildebrandoLima/HildebrandoLima)
