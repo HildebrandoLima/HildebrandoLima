@@ -70,8 +70,6 @@ Ao longo da minha carreira, explorei diversas facetas do desenvolvimento, atuand
 
 ![TDD](https://img.shields.io/badge/TDD-%23181717?style=for-the-badge&logo=tdd&logoColor=white)
 
-![DDD](https://img.shields.io/badge/DDD-%23181717?style=for-the-badge&logo=ddd&logoColor=white)
-
 ## Pojetos que Destaco
 
 - [ms-delivey, API de e-commerce](https://github.com/HildebrandoLima/ms-delivey).
