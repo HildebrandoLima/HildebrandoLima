@@ -3,7 +3,6 @@
 ## Minhas Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/hildebrando-lima-664bb1130/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/_dell.sama_?igshid=OGQ5ZDc2ODk2ZA==)
 
 ## Sobre mim
@@ -77,13 +76,11 @@ Ao longo da minha carreira, explorei diversas facetas do desenvolvimento, atuand
 - [Ver postagem do linkedin](https://encurtador.com.br/HTnd8)
 
 ## GitHub Status
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HildebrandoLima&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HildebrandoLima&layout=compact)](https://github.com/HildebrandoLima/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HildebrandoLima&show_icons=true&theme=radical)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HildebrandoLima&show_icons=true&theme=dark)
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HildebrandoLima&theme=radical)
+![GitHub Contributions](https://github.com/HildebrandoLima/HildebrandoLima/blob/main/github-contribution-grid-snake.svg)
 
 Convido você a explorar meu portfólio e repositório no GitHub para conhecer alguns dos projetos que desenvolvi. Estou sempre em busca de desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades. Vamos construir algo incrível juntos!
 
