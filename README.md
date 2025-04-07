@@ -1,10 +1,5 @@
 # [Hildebrando Alves Silva Lima](https://hildebrandolima.github.io/)
 
-## Minhas Redes Sociais
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/hildebrando-lima-664bb1130/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/_dell.sama_?igshid=OGQ5ZDc2ODk2ZA==)
-
 ## Sobre mim
 
 Sou um entusiasta da programação desde a infância, e essa paixão pela tecnologia me guiou ao longo da minha jornada profissional. Iniciei minha formação na área como tecnólogo em informática pela EEEP (Escola Profissionalizante) e estou atualmente formado no curso de Bacharelado em Ciência da Computação.
@@ -12,6 +7,19 @@ Sou um entusiasta da programação desde a infância, e essa paixão pela tecnol
 Minha experiência profissional começou como estagiário de suporte em um restaurante, onde destaquei-me não apenas pela resolução eficiente de problemas, mas também por meu carisma, foco e dedicação. Esses atributos, somados à minha constante sede de aprendizado, abriram portas para meu papel atual como desenvolvedor back-end.
 
 Ao longo da minha carreira, explorei diversas facetas do desenvolvimento, atuando como fullstack e Q.A. Minhas contribuições abrangem não apenas projetos acadêmicos, mas também aplicações corporativas e freelas que refletem minha paixão pela criação e inovação.
+
+## GitHub Dashborad
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HildebrandoLima&langs_count=8&theme=dark)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HildebrandoLima&theme=radical) -->
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HildebrandoLima&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HildebrandoLima&show_icons=true&theme=radical)
+
+![Pull Requests](https://img.shields.io/github/pulls/HildebrandoLima?style=flat)
+![Issues](https://img.shields.io/github/issues/HildebrandoLima?style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/HildebrandoLima?style=flat&color=yellow)
+![Forks](https://img.shields.io/github/forks/HildebrandoLima?style=flat)
+![Contributors](https://img.shields.io/github/contributors/HildebrandoLima/ProjectName?style=flat)
 
 ## Minhas Habilidades
 
@@ -54,24 +62,16 @@ Ao longo da minha carreira, explorei diversas facetas do desenvolvimento, atuand
     <img src="https://img.shields.io/badge/TDD-%23181717?style=for-the-badge&logo=tdd&logoColor=white" />
 </div>
 
-## Pojetos que Destaco
+## Pojetos Destaque
 
 - [ms-delivey, API de e-commerce](https://github.com/HildebrandoLima/ms-delivey).
 - [ecommerce front-end Vue.js](https://github.com/HildebrandoLima/ecommerce).
 - [Ver postagem do linkedin](https://encurtador.com.br/HTnd8)
 
-## GitHub Dashborad
+## Minhas Redes Sociais
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HildebrandoLima&langs_count=8&theme=dark)
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HildebrandoLima&theme=radical) -->
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HildebrandoLima&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HildebrandoLima&show_icons=true&theme=radical)
-
-![Pull Requests](https://img.shields.io/github/pulls/HildebrandoLima?style=flat)
-![Issues](https://img.shields.io/github/issues/HildebrandoLima?style=flat)
-![GitHub Stars](https://img.shields.io/github/stars/HildebrandoLima?style=flat&color=yellow)
-![Forks](https://img.shields.io/github/forks/HildebrandoLima?style=flat)
-![Contributors](https://img.shields.io/github/contributors/HildebrandoLima/ProjectName?style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/hildebrando-lima-664bb1130/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/_dell.sama_?igshid=OGQ5ZDc2ODk2ZA==)
 
 Convido você a explorar meu portfólio e repositório no GitHub para conhecer alguns dos projetos que desenvolvi. Estou sempre em busca de desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades. Vamos construir algo incrível juntos!
 
